@@ -14,6 +14,7 @@ Get in touch
 Find out more
 Understand the jargon
 
+
 What am I doing?
 
 The Problem:
@@ -24,9 +25,11 @@ The Solution:
 
 The Dataspire PLC project will develop a mechanism and culture for educators in grades 3-16 to build an online professional learning community around data literacy so that they can confidently integrate data, data skills, and data literacy instruction into their teaching practice. Accomplishing this vision will require creating a space in which as a community we can actively leverage lessons learned from both researchers and practitioners to inform, grow, and improve our practice in collaborative and transparent ways.
 
+
 Who am I?
 
 I am the Director of Dataspire an organization dedicated to inspiring science and data literacy. I am currenly participating in the Mozilla Open Leaders 7 - Culture Track to better learn how to build and effectively engage communities so they can work together to develop tools and resources for the greater good.
+
 
 What do I need?
 
@@ -36,12 +39,15 @@ Educators to participate in the online professional learning community and make 
 
 I'd love any and all feedback along the way.
 
+
 Get involved
 (coming soon)
+
 
 Contact us
 
 If you want to report a problem or suggest an enhancement please open an issue at this github repository. You can also contact me by email (hunterthomson AT marine DOT rutgers DOT edu) or on twitter (@ru_dataspire).
+
 
 Find out more
 
@@ -53,9 +59,11 @@ Contributors' guidelines (coming soon)
 
 Roadmap (coming soon)
 
+
 Thank you
 
 Thank you so much for visiting the project and I hope you will join me in supporting educators better prepare students to be data literate in the 21st century.
+
 
 Glossary
 
