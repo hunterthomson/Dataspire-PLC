@@ -56,7 +56,7 @@ Thank you so much for visiting the project and I hope you will join me in suppor
 Glossary
 
 PLC: Professional Learning Community
-Data Literacy: the ability to collect, interpret, analyze, and share data for ourselves and other people to use and understand.
+Data Literacy: the ability to collect, interpret, analyze, and share data for ourselves and other people to use and understand.
 README file: a document that introduces an open project to the public and any potential contributors
 repository or repo: a collection of documents related to your project, in which you create and save new code or content
 Roadmap: a document outlining the schedule of work to be done on a project
