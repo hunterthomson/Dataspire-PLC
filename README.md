@@ -45,6 +45,7 @@ If you want to report a problem or suggest an enhancement please open an issue a
 
 Find out more
 
+Compare & Contrast: Community Interactions (https://tinyurl.com/dataspire-plc-compare-contrast)
 Open Canvas (https://tinyurl.com/dataspire-plc-open-canvas)
 Contributors' guidelines (coming soon)
 Roadmap (coming soon)
