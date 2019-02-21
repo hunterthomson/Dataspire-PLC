@@ -15,6 +15,7 @@ Find out more
 Understand the jargon
 
 What am I doing?
+
 The Problem
 We live in a data-driven society, yet many educators are not sure of where to start in integrating data, data skills, and data literacy into their classrooms. Also, so many edcuators have similar kinds of questions but do not have an easy way to communicate with one another about their questions or lack the confidence to pose the question. However, when integrating new things into our teaching practice we often do better when we can mimic or adapt existing examples as well as talk through challenges and questions with colleagues. But currently there is no effective way to do this around data, data skills, and data literacy for educators in grades 3-12+ so instead we are all trying to reinvent the wheel by ourselves. 
 
